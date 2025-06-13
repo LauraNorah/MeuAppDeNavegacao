@@ -49,7 +49,7 @@ export default function LoginScreen({ navigation }) {
         <Button
           title="Entrar"
           onPress={handleLogin}
-          color="#ffffff" // Cor do texto do botão para combinar com o fundo escuro
+          color="#151b54" // Cor do texto do botão para combinar com o fundo escuro
         />
       </View>
     </View>

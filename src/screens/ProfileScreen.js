@@ -43,10 +43,10 @@ const styles = StyleSheet.create({
         fontFamily: 'monospace'
     },
     buttonContainer: {
-        backgroundColor: '#dda0dd',
+        backgroundColor: '#9f37e3',
         margin: 10,
         width: windowWidth * 0.5,
         borderRadius: 5,
-        color: 'd891ef',
+        color: '#9f37e3',
     },
 });
